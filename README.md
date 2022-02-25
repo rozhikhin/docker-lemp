@@ -1,5 +1,3 @@
-# Webinar Laravel set local environment with Docker Compose
-
 
 ## Docker's command helpers
 
