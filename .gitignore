@@ -1,1 +1,2 @@
-src/data
+docker/mysql/data/
+.idea
