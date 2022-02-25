@@ -5,7 +5,7 @@
 
 - Запуск контейнеров `docker-compose up -d --build`
 - Остановка контейнеров `docker-compose down`
-- Просмотреть логи `docker-compose logs --tal 25`
+- Просмотреть логи `docker-compose logs --tail 25`
 
 ## Laravel command helpers
 
