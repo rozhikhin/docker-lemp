@@ -16,6 +16,10 @@
 
 composer create-project --prefer-dist laravel/laravel .
 
+или
 
+docker run --rm --interactive --tty
+--volume $PWD:/app
+composer --prefer-dist create-project laravel/laravel .
 
 
